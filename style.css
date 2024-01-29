@@ -1,19 +1,18 @@
 
 *{
-    background-color: green;
-    margin: auto;
+
 }
-body { width: 100%; height: 100%; }
+
 .bg-box{
-background-image: url(https://img.goodfon.ru/wallpaper/big/0/5b/pole-zelen-trava-dom-derevya.jpg);
+width: 1000px;
+height: 680px;
+background-color: green;
+margin: auto;
+background-image:url(grass.png), url(lampla.png), url(dom.jpg),url(yejik.webp), url(ponchik.png) ;
+background-repeat: no-repeat, repeat-x,no-repeat, repeat-y, repeat-y;
+background-position: bottom, top,center, left, right ;
+background-size: 100% 50%, 5%, 50%, 5%, 5%;
 
 
-
-
-
-    
-
-
-min-width: 100%; min-height: 100%; position: relative; 
 }
 
